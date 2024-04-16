@@ -18,3 +18,9 @@ const config: Config = {
   plugins: [],
 };
 export default config;
+
+// Dark Blue: #2B3945 (for header and footer backgrounds)
+// White: #FFFFFF (for text on dark blue background)
+// Light Gray: #F0F4F8 (for main section background)
+// Button Blue: #4C9AFF (for buttons and important elements)
+// Text Gray: #333333 (for general text on light backgrounds)
